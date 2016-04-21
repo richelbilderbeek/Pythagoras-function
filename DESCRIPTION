@@ -1,0 +1,14 @@
+Package: Pythagoras
+Type: Package
+Title: Pythagoras function
+Version: 0.1.0
+Author: Jolien Gay
+Maintainer: gay.jolien@hotmail.com
+Description: Compute the length the longest side of a right-angled triangle (c)
+by adding values for the other sides (a & b) in the function.
+License: ???
+LazyData: TRUE
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
