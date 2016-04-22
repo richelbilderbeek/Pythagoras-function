@@ -5,10 +5,12 @@ Version: 0.1.0
 Author: Jolien Gay
 Maintainer: gay.jolien@hotmail.com
 Description: Compute the length the longest side of a right-angled triangle (c)
-by adding values for the other sides (a & b) in the function.
-License: ???
+    by adding values for the other sides (a & b) in the function.
+License: GPL-3
 LazyData: TRUE
-Suggests: testthat,
+Suggests:
+    testthat,
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+RoxygenNote: 5.0.1
